@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+/Users/amiaynarayan/Projects/utilities/pdf/pdfcut.py "$@"
