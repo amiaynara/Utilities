@@ -7,4 +7,4 @@
 
 ![Automator, create workflow](pdfCut_automator.png)
 
-_Note_: This can be imported.
+_Note_: This can be imported: ![Workflow location](pdfCut.workflow/Contents)
